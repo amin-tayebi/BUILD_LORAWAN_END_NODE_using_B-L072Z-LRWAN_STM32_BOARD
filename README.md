@@ -1,6 +1,6 @@
 # BUILD_LORAWAN_END_NODE_using_B-L072Z-LRWAN_STM32_BOARD
 
-<b>🔥🔥🔥 GOAL of the project</b>
+<b>🔥 GOAL of the project</b>
 
 BUILD LORAWAN END NODE using B-L072Z-LRWAN STM32 BOARD and Transmit data to the TTN (The Things Network). A lorawan end node have created by setting the keys of the device in TTN server platform. Configuring the device with the parameters, upload codes to device and finally activate it in the TTN to transfer the packets (Voltage and the temperature of the MCU in the board) and be visible in the TTN online platform.
 
@@ -10,7 +10,6 @@ BUILD LORAWAN END NODE using B-L072Z-LRWAN STM32 BOARD and Transmit data to the 
 First, choose and install the best tool (tool-chain) to configure and upload the codes(FLASH) the device. Cube-IDE includes Cube-MX and Cube-programmer tools and could be the best between: 
     • IAR EWARM
     • KAIL
-    • gcc-based IDE
     • Arm-mbed online platform
     
 Secondly, download the Lorawan_end_node example and import it to the Cube-IDE tool.
