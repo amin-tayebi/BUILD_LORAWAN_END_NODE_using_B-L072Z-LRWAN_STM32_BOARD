@@ -57,7 +57,7 @@ https://www.youtube.com/watch?v=MgbTraRq0K8&t=0s
 
 <b> 👉 Important paths </b>
 
-- Path of .project file path
+- .project file path
 ~/STM32CubeExpansion_LRWAN_V2.0.0/Projects/BL072Z-LRWAN1/Applications/LoRaWAN/LoRaWAN_End_Node/STM32CubeIDE/
 cmwx1zzabz_0xx/
 or
