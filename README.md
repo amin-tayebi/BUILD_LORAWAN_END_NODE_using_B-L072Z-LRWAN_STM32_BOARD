@@ -4,7 +4,7 @@
 
 BUILD LORAWAN END NODE using B-L072Z-LRWAN STM32 BOARD and Transmit data to the TTN (The Things Network). A lorawan end node have created by setting the keys of the device in TTN server platform. Configuring the device with the parameters, upload codes to device and finally activate it in the TTN to transfer the packets (Voltage and the temperature of the MCU in the board) and be visible in the TTN online platform.
 
-<b>🎬 Related video</b>
+<b>🎬 video of deploying the scenario</b>
 
 https://drive.google.com/drive/folders/193a0y-XQt243AbnOHGVEFdcdlx3MfqSE?usp=sharing
 
