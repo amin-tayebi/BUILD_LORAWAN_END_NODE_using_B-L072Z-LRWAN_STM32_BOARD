@@ -15,13 +15,13 @@ First, choose and install the best tool (tool-chain) to configure and upload the
     • KAIL
     • Arm-mbed online platform
     
-Secondly, download the Lorawan_end_node example and import it to the Cube-IDE tool.
+- download the Lorawan_end_node example and import it to the Cube-IDE tool.
 
-Thirdly, flash (upload the lorawan application) to the device. 
+- flash (upload the lorawan application) to the device. 
 
-Fourthly, choose and install a terminal tool for tracking the packets
+- choose and install a terminal tool for tracking the packets
 
-Finally, creating an account and other entitis in TTN (e.g. add  Gateway, application and a device)
+- creating an account and other entitis in TTN (e.g. add  Gateway, application and a device)
 
 
 <b>👉 Hardware equipment</b>
@@ -34,7 +34,7 @@ Finally, creating an account and other entitis in TTN (e.g. add  Gateway, applic
 
 - Cube-IDE software
 
-- Cutecome terminal application (or any terminal application)
+- Cutecome terminal application (or any terminal emulator)
 
     
 <b>👋 Additional resources</b>
